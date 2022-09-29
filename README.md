@@ -1,1 +1,1 @@
-# DS-EASAE-18-Deep_learning_Models_and_Optimization
+## This is for the course "Deep Learning: Models and Optimization" taught by Marco Cuturi at ENSAE.
